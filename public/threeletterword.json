@@ -1,0 +1,30 @@
+{
+    "words": {
+      "ending_in_t": {
+        "a_words": ["ant","art","act"],
+        "b_words": ["bat"],
+        "c_words": ["cat"],
+        "d_words": ["dinosaur"],
+        "e_words": ["eat"],
+        "f_words": ["fat"],
+        "g_words": ["got"],
+        "h_words": ["hat"],
+       
+        "j_words": ["jet"],
+        "k_words": ["kit"],
+        "l_words": ["lot"],
+        "m_words": ["mat"],
+        "n_words": ["not"],
+        "o_words": ["out"],
+        "p_words": ["pat"],
+        "r_words": ["rot"],
+        "s_words": ["sat"],
+        "t_words": ["tot"],
+        "v_words": ["vat"],
+        "w_words": ["wat"],
+        "x_words": ["xat"],
+        "y_words": ["yet"],
+        "z_words": ["zat"]
+      }
+    }
+  }

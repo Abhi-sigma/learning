@@ -1,0 +1,14 @@
+{
+    "a": {
+      "level1": ["apple", "ant", "arrow", "axe", "alligator"],
+      "level2": ["avatar", "adventure", "ambassador"],
+      "level3": ["astronomy", "authentication", "arboretum"]
+    },
+    "b": {
+      "level1": ["ball", "bat", "bus", "bag", "bug"],
+      "level2": ["butterfly", "banana", "barbecue"],
+      "level3": ["bureaucracy", "bioluminescence", "benevolence"]
+    }
+   
+  }
+
